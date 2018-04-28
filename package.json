@@ -1,12 +1,14 @@
 {
-  "homepage": "https://fatihbozik.github.io/react_sample/",
   "name": "react-sample",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://fatihbozik.github.io/react-sample/",
   "dependencies": {
     "react": "^16.3.2",
-    "react-dom": "^16.3.2",
-    "react-scripts": "1.1.4"
+    "react-dom": "^16.3.2"
+  },
+  "devDependencies": {
+    "react-scripts": "^1.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
