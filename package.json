@@ -2,7 +2,7 @@
   "name": "react-sample",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://fatihbozik.github.io/react-sample/",
+  "homepage": "https://fatihbozik.github.io/react-sample",
   "dependencies": {
     "react": "^16.3.2",
     "react-dom": "^16.3.2"
@@ -17,6 +17,6 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -b master -d build"
   }
 }
